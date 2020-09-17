@@ -9,6 +9,8 @@ earlystopBF <- function(alternative="two_sided", paired = FALSE, rscale = "0.707
 
   ##Working directory must be set to parent folder of project (e.g. './Github/Early_stopping_in_PET')
   
+  ######Testar att "submitta en change" using stupid Github
+  
   ##Packages "ggplot2", "cowplot" and "pwr" must be installed for function to work.
   
   ###Arguments:
